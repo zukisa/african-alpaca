@@ -1,0 +1,15 @@
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\bin\Debug\net5.0\MyAspnetCoreAmazone.Models.deps.json
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\bin\Debug\net5.0\MyAspnetCoreAmazone.Models.dll
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\bin\Debug\net5.0\MyAspnetCoreAmazone.Models.pdb
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.AssemblyInfoInputs.cache
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.AssemblyInfo.cs
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.csproj.CoreCompileInputs.cache
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.dll
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\ref\MyAspnetCoreAmazone.Models.dll
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.pdb
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\bin\Debug\net5.0\MyAspnetCoreAmazone.Models.runtimeconfig.json
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\bin\Debug\net5.0\MyAspnetCoreAmazone.Models.runtimeconfig.dev.json
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.genruntimeconfig.cache
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\MyAspnetCoreAmazone.Models.csproj.AssemblyReference.cache
+C:\Zukisa_Dev\MyAspnetCoreAmazone.Models\obj\Debug\net5.0\refint\MyAspnetCoreAmazone.Models.dll

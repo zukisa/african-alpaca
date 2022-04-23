@@ -1,0 +1,17 @@
+﻿INSERT [Products]([ProductName],[RRP],[SellingPrice])
+VALUES('ProductA',10.000,100.000),('ProductB',20.000,200.000),('ProductC',34.000,300.000),('ProductD',35.000,500.000)
+
+SELECT * 
+FROM [Products]
+
+CREATE TABLE[Price]
+(
+	[PriceID] INT NOT NULL PRIMARY KEY IDENTITY(1,1),
+	[SellingPrice] SMALLMONEY NOT NULL,
+	[RRP] SMALLMONEY NOT NULL,
+	[Discount] SMALLMONEY NOT NULL
+)
+GO
+
+ALTER TABLE [dbo].[Products]
+ADD CONSTRAINT ([PriceID]) INT  FOREIGN KEY REFERENCES [Price]([PriceID])
